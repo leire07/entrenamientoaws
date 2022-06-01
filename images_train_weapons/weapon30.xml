@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_train_weapons</folder>
+	<filename>weapon30.jpg</filename>
+	<path>/home/leire/ros_yolo/images_train_weapons/weapon30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>93</ymin>
+			<xmax>297</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>guns</folder>
+	<filename>s4.jpg</filename>
+	<path>/home/belen/guns/s4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>78</ymin>
+			<xmax>1216</xmax>
+			<ymax>1235</ymax>
+		</bndbox>
+	</object>
+</annotation>
